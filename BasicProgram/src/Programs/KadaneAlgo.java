@@ -2,8 +2,6 @@
 
 package Programs;
 
-import java.util.*;
-
 public class KadaneAlgo {
 
 	public static int maxSubarraySum(int arr[], int n){
